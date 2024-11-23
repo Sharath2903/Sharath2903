@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sharath</h1>
-<h3 align="center">A committed, performance-driven analyst with 2+ years of experience in the Logistics and customer support sector, bringing value through automation, product problem-solving, data analysis, visualization, and storytelling. Adept at identifying business needs, building strong relationships with stakeholders, implementing solutions that improve efficiency, and driving business growth. </h3>
+# 💫 About Me:
 
+A committed, performance-driven analyst with 2+ years of experience in the Logistics and customer support sector, bringing value through automation, product problem-solving, data analysis, visualization, and storytelling. Adept at identifying business needs, building strong relationships with stakeholders, implementing solutions that improve efficiency, and driving business growth. 
 
 
 <!---
