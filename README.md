@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-Results-driven Data Analyst with 1.9 years of specialized experience in logistics optimization and customer experience analytics, bringing value through automation, product problem-solving, data analysis, visualization, and storytelling. Adept at identifying business needs, building strong relationships with stakeholders, implementing solutions that improve efficiency, and driving business growth. 
+Results-driven Data Analyst with 2 years of experience in logistics optimization, customer experience analytics, and marketing
+insights. Proven expertise in automation, advanced data analysis, visualization, and insightful storytelling. Adept at identifying
+business needs, building stakeholder relationships, and implementing data-driven strategies to improve efficiency and drive
+growth.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharathkumar-g/)
