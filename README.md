@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Results-driven Data Analyst with 2 years of experience in logistics optimization, customer experience analytics, and marketing
+Results-driven Data Analyst with 1 year 10 months of experience in logistics optimization, customer experience analytics, and marketing
 insights. Proven expertise in automation, advanced data analysis, visualization, and insightful storytelling. Adept at identifying
 business needs, building stakeholder relationships, and implementing data-driven strategies to improve efficiency and drive
 growth.
