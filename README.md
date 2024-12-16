@@ -1,9 +1,8 @@
 # 💫 About Me:
 
-Results-driven Data Analyst with 1 year 10 months of experience in logistics optimization, customer experience analytics, and marketing
-insights. Proven expertise in automation, advanced data analysis, visualization, and insightful storytelling. Adept at identifying
-business needs, building stakeholder relationships, and implementing data-driven strategies to improve efficiency and drive
-growth.
+As a Data Analyst with 1.5 years of experience, I specialize in transforming raw data into actionable insights that drive business decisions. My expertise includes data extraction, processing, and analysis, alongside proficiency in tools like SQL, Python, Power BI, and AWS QuickSight. I thrive on solving complex problems, ensuring data quality, and delivering impactful solutions through cross-functional collaboration. With a proven track record in developing ETL pipelines, data profiling, and creating intuitive dashboards, I am passionate about leveraging data to optimize operations and achieve measurable results. Always eager to learn, I adapt quickly to new tools and technologies to meet evolving business needs.
+
+
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharathkumar-g/)
