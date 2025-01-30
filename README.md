@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-As a Data Analyst with 1.5 years of experience, I specialize in transforming raw data into actionable insights that drive business decisions. My expertise includes data extraction, processing, and analysis, alongside proficiency in tools like SQL, Python, Power BI, and AWS QuickSight. I thrive on solving complex problems, ensuring data quality, and delivering impactful solutions through cross-functional collaboration. With a proven track record in developing ETL pipelines, data profiling, and creating intuitive dashboards, I am passionate about leveraging data to optimize operations and achieve measurable results. Always eager to learn, I adapt quickly to new tools and technologies to meet evolving business needs.
+As a Data Analyst with 2 years of experience, I specialize in transforming raw data into actionable insights that drive business decisions. My expertise includes data extraction, processing, and analysis, alongside proficiency in tools like SQL, Python, Power BI, and AWS QuickSight. I thrive on solving complex problems, ensuring data quality, and delivering impactful solutions through cross-functional collaboration. With a proven track record in developing ETL pipelines, data profiling, and creating intuitive dashboards, I am passionate about leveraging data to optimize operations and achieve measurable results. Always eager to learn, I adapt quickly to new tools and technologies to meet evolving business needs.
 
 
 
